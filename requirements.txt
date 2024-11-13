@@ -1,0 +1,11 @@
+pandas
+opencv-python
+numpy
+transformers
+deepface
+plotly
+torch
+moviepy
+pydub
+streamlit
+scipy
