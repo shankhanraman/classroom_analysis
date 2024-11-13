@@ -1,6 +1,3 @@
-Here's a concise version of the `README.md`:
-
-```markdown
 # 🎓 Real-Time Classroom Monitor: Speech & Emotion Analysis
 
 A tool for real-time classroom monitoring, analyzing student engagement, emotional climate, and curriculum adherence using advanced video and audio processing.
