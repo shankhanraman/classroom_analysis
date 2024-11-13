@@ -40,4 +40,4 @@ A tool for real-time classroom monitoring, analyzing student engagement, emotion
 ## ⚖️ License
 [MIT License](LICENSE)
 
-👤 **Author**: Shankhan Raman | 📧 Contact: [your-email@example.com] | 💻 GitHub: [YourGitHubUsername](https://github.com/your-username/classroom-monitor)
+👤 **Author**: Shankhan Raman | 📧 Contact: shankhan.raman@gmail.com | 💻 GitHub: [YourGitHubUsername](https://github.com/your-username/classroom-monitor)
